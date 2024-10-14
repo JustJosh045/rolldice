@@ -1,4 +1,4 @@
-//josheuznothere
+//joshwuznothere
 var randInt1 = Math.floor(Math.random() * 6) +1;
 
 var ranDice = "dice-" + randInt1 + ".png";
